@@ -20,3 +20,4 @@ Bonus points:
 — ночная тема
 
 ![скришот 1](https://github.com/Jem1s-git/ImageLoader/blob/main/screen-shot.png)
+![скришот 2](https://github.com/Jem1s-git/ImageLoader/blob/main/screen-shot2.png)
