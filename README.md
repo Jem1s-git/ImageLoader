@@ -18,3 +18,5 @@
 
 Bonus points:
 — ночная тема
+
+![скришот 1](https://github.com/Jem1s-git/ToDoList/blob/main/screen-shot1.png)
